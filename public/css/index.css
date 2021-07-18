@@ -1,0 +1,53 @@
+body{
+    background-color: whitesmoke;
+    scroll-behavior: smooth;
+}
+
+h1{
+  font-size: 40px;
+  font-weight: bold;
+  font-family: 'Merriweather', serif;
+}
+
+.mentalcont{
+  background-image: url("sky.jpeg");
+  background-size: cover;
+}
+
+.mental1{
+  padding-top: 40px;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 20px;
+  line-height: 1.5;
+}
+.mental2{
+  font-family: 'PT Sans', sans-serif;
+  font-size: 20px;
+  line-height: 1.5;
+}
+.mental3{
+  font-family: 'PT Sans', sans-serif;
+  font-size: 20px;
+  line-height: 1.5;
+}
+
+.jumbotron{
+  font-family: 'PT Sans', sans-serif;
+  font-size: 20px;
+  line-height: 1.5;
+  background-color: #f1d7e0;
+}
+
+.tit{
+  text-align: center;
+  font-size: 100px;
+  font-family: 'Architects Daughter', cursive;
+}
+
+#liira{
+  background-image: url('https://png.pngtree.com/thumb_back/fw800/back_our/20190620/ourmid/pngtree-romantic-fresh-minimalist-poster-image_142652.jpg');
+  background-size: cover;
+  text-align: center;
+  font-size: 25px;
+  background-color: #F7DBF0;
+}
